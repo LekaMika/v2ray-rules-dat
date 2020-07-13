@@ -10,6 +10,6 @@ updates:
     schedule:
       interval: "daily"
       timezone: "Asia/Shanghai"
-      time: "19:00"
+      time: "21:00"
     pull-request-branch-name:
       separator: "-"
